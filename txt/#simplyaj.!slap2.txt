@@ -1,0 +1,1 @@
+/me slaps $nick($chan,$rand(1,$nick($chan,0))) with an eel

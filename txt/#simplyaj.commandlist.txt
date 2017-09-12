@@ -7,3 +7,6 @@
 !shirt,
 !shirt,
 !commands,
+!sonic,
+!garbage,
+!emotes,

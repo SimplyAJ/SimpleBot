@@ -78685,3 +78685,4383 @@ Session Time: Tue Aug 01 00:00:00 2017
 [23:36] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 2
 -
 Session Close: Tue Aug 01 23:55:18 2017
+
+Session Start: Wed Aug 02 21:03:45 2017
+Session Ident: Status Window
+02[21:03] * Connecting to irc.chat.twitch.tv (6667)
+-
+[21:03] Welcome, GLHF!
+[21:03] Your host is tmi.twitch.tv
+[21:03] This server is rather new
+-
+[21:03] You are in a maze of twisty passages, all alike.
+-
+[21:03] >
+-
+01[21:03] -> Server: CAP REQ :twitch.tv/membership
+-
+01[21:03] -> Server: CAP REQ :twitch.tv/commands
+-
+01[21:03] -> Server: CAP REQ :twitch.tv/tags
+-
+[21:03] USERHOST Unknown command
+-
+[21:03] tmi.twitch.tv USERSTATE #simplyaj
+-
+[21:03] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[21:03] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan -
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+02[21:15] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:42] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:43] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[21:44] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[21:48] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:56] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[22:00] tmi.twitch.tv USERNOTICE #simplyaj This stage is cold, yet it may not chill the fire raging outside!
+-
+[22:00] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[22:15] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:24] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[22:28] tmi.twitch.tv USERSTATE #simplyaj
+-
+[22:28] tmi.twitch.tv USERSTATE #simplyaj
+-
+[22:44] tmi.twitch.tv USERSTATE #simplyaj
+-
+[22:56] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[23:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[23:39] tmi.twitch.tv HOSTTARGET #simplyaj andrewarcade 15
+-
+Session Time: Thu Aug 03 00:00:00 2017
+[03:26] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[03:30] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 3
+-
+[13:20] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[13:21] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 0
+-
+[18:05] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[18:16] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv 1
+-
+[19:18] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[19:25] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv 1
+-
+
+Session Start: Thu Aug 03 20:41:17 2017
+Session Ident: Status Window
+02[20:41] * Connecting to irc.chat.twitch.tv (6667)
+-
+[20:41] Welcome, GLHF!
+[20:41] Your host is tmi.twitch.tv
+[20:41] This server is rather new
+-
+[20:41] You are in a maze of twisty passages, all alike.
+-
+[20:41] >
+-
+01[20:41] -> Server: CAP REQ :twitch.tv/membership
+-
+01[20:41] -> Server: CAP REQ :twitch.tv/commands
+-
+01[20:41] -> Server: CAP REQ :twitch.tv/tags
+-
+[20:41] USERHOST Unknown command
+-
+[20:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+[20:41] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[20:41] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv -
+-
+[20:43] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+02[20:54] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:11] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:27] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:59] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[22:05] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[22:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[22:06] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[22:06] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:27] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:27] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:36] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[22:46] tmi.twitch.tv HOSTTARGET #simplyaj hotsammysliz 18
+-
+Session Time: Fri Aug 04 00:00:00 2017
+[02:22] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[08:00] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 0
+-
+Session Close: Fri Aug 04 23:57:39 2017
+
+Session Start: Sat Aug 05 00:02:45 2017
+Session Ident: Status Window
+02[00:02] * Connecting to irc.chat.twitch.tv (6667)
+-
+[00:02] Welcome, GLHF!
+[00:02] Your host is tmi.twitch.tv
+[00:02] This server is rather new
+-
+[00:02] You are in a maze of twisty passages, all alike.
+-
+[00:02] >
+-
+01[00:02] -> Server: CAP REQ :twitch.tv/membership
+-
+01[00:02] -> Server: CAP REQ :twitch.tv/commands
+-
+01[00:02] -> Server: CAP REQ :twitch.tv/tags
+-
+[00:02] USERHOST Unknown command
+-
+[00:02] tmi.twitch.tv USERSTATE #simplyaj
+-
+[00:02] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[00:02] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co -
+-
+[00:04] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[00:04] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[00:04] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[00:04] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[00:04] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+02[00:05] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:10] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:17] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[00:24] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:32] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[01:06] tmi.twitch.tv USERSTATE #simplyaj
+-
+[01:06] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:14] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:15] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:15] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[01:16] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:17] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:06] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[02:06] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:05] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:10] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:14] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:23] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:47] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:10] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:13] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[04:13] tmi.twitch.tv USERSTATE #simplyaj
+-
+[04:13] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[04:14] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:01] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[06:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[06:41] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[06:56] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[07:20] tmi.twitch.tv USERSTATE #simplyaj
+-
+[07:20] tmi.twitch.tv USERSTATE #simplyaj
+-
+[07:20] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 64
+-
+[15:35] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[15:35] tmi.twitch.tv HOSTTARGET #simplyaj tehp 2
+-
+[21:40] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[21:42] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[21:44] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[21:44] tmi.twitch.tv HOSTTARGET #simplyaj escheria 0
+-
+[21:47] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[21:48] tmi.twitch.tv HOSTTARGET #simplyaj escheria 0
+-
+[21:50] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[21:50] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+[22:40] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[22:41] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+[22:43] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[23:17] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 1
+-
+Session Time: Sun Aug 06 00:00:00 2017
+Session Close: Sun Aug 06 00:05:00 2017
+
+Session Start: Sun Aug 06 01:35:11 2017
+Session Ident: Status Window
+02[01:35] * Connecting to irc.chat.twitch.tv (6667)
+-
+[01:35] Welcome, GLHF!
+[01:35] Your host is tmi.twitch.tv
+[01:35] This server is rather new
+-
+[01:35] You are in a maze of twisty passages, all alike.
+-
+[01:35] >
+-
+01[01:35] -> Server: CAP REQ :twitch.tv/membership
+-
+01[01:35] -> Server: CAP REQ :twitch.tv/commands
+-
+01[01:35] -> Server: CAP REQ :twitch.tv/tags
+-
+[01:35] USERHOST Unknown command
+-
+[01:35] tmi.twitch.tv USERSTATE #simplyaj
+-
+[01:35] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[01:35] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger -
+-
+[01:36] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[01:36] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[01:36] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[01:36] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+02[01:44] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:57] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:02] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[02:25] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 11
+-
+[04:59] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[05:00] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 0
+-
+[05:00] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 0
+-
+[05:35] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[05:35] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 0
+-
+[05:38] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[09:42] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[15:46] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[15:46] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 0
+-
+[16:30] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[16:30] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+Session Time: Mon Aug 07 00:00:00 2017
+[00:16] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[00:16] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 1
+-
+[00:19] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[00:19] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 1
+-
+
+Session Start: Mon Aug 07 00:54:49 2017
+Session Ident: Status Window
+02[00:54] * Connecting to irc.chat.twitch.tv (6667)
+-
+[00:54] Welcome, GLHF!
+[00:54] Your host is tmi.twitch.tv
+[00:54] This server is rather new
+-
+[00:54] You are in a maze of twisty passages, all alike.
+-
+[00:54] >
+-
+01[00:54] -> Server: CAP REQ :twitch.tv/membership
+-
+01[00:54] -> Server: CAP REQ :twitch.tv/commands
+-
+01[00:54] -> Server: CAP REQ :twitch.tv/tags
+-
+[00:54] USERHOST Unknown command
+-
+[00:54] tmi.twitch.tv USERSTATE #simplyaj
+-
+[00:54] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[00:54] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger -
+-
+[00:55] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[00:55] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[00:55] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+02[00:56] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:56] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:57] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:34] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[01:36] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:46] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:53] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:55] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[01:55] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:16] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:22] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:54] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:07] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:18] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[03:21] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:32] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+[03:32] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:41] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:13] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:27] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[05:01] tmi.twitch.tv HOSTTARGET #simplyaj thorlar 39
+-
+[07:59] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[08:03] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 3
+-
+[12:18] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[12:18] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 2
+-
+[12:23] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[12:23] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[19:22] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[19:22] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 2
+-
+[19:50] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[19:50] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 1
+-
+[20:11] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[20:11] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 1
+-
+[20:13] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[23:17] tmi.twitch.tv HOSTTARGET #simplyaj ehlea 2
+-
+Session Time: Tue Aug 08 00:00:00 2017
+[01:09] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[01:11] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 2
+-
+[04:10] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[04:10] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 2
+-
+[04:13] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[04:13] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 1
+-
+[04:15] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 1
+-
+[06:38] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[06:42] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 3
+-
+[13:59] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[14:00] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 1
+-
+[16:18] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[16:18] tmi.twitch.tv HOSTTARGET #simplyaj tehp 1
+-
+[16:18] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 1
+-
+[16:51] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[16:51] tmi.twitch.tv HOSTTARGET #simplyaj hotsammysliz 0
+-
+[18:09] tmi.twitch.tv HOSTTARGET #simplyaj ehlea 1
+-
+[18:45] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[18:50] tmi.twitch.tv HOSTTARGET #simplyaj hotsammysliz 1
+-
+[20:16] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[20:17] tmi.twitch.tv HOSTTARGET #simplyaj hotsammysliz 1
+-
+[20:21] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[20:21] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 0
+-
+[20:48] tmi.twitch.tv HOSTTARGET #simplyaj calebhart42 0
+-
+[22:08] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[22:09] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 1
+-
+Session Time: Wed Aug 09 00:00:00 2017
+[01:26] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[01:28] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 1
+-
+[03:08] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[03:12] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 1
+-
+[07:00] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[07:00] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 1
+-
+[07:04] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[08:53] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 1
+-
+[19:27] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[19:27] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 0
+-
+[19:30] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[19:32] tmi.twitch.tv HOSTTARGET #simplyaj tehp 1
+-
+[21:56] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[21:56] tmi.twitch.tv HOSTTARGET #simplyaj tehp 500000
+-
+[22:00] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[22:00] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 1
+-
+Session Time: Thu Aug 10 00:00:00 2017
+[03:07] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[03:10] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 0
+-
+[03:19] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[03:21] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 0
+-
+[15:13] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[15:13] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 0
+-
+[15:17] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[15:18] tmi.twitch.tv HOSTTARGET #simplyaj hotsammysliz 0
+-
+[21:57] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[22:09] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 0
+-
+Session Time: Fri Aug 11 00:00:00 2017
+Session Close: Fri Aug 11 02:01:20 2017
+
+Session Start: Fri Aug 11 02:07:50 2017
+Session Ident: Status Window
+02[02:07] * Connecting to irc.chat.twitch.tv (6667)
+-
+[02:07] Welcome, GLHF!
+[02:07] Your host is tmi.twitch.tv
+[02:07] This server is rather new
+-
+[02:07] You are in a maze of twisty passages, all alike.
+-
+[02:07] >
+-
+01[02:07] -> Server: CAP REQ :twitch.tv/membership
+-
+01[02:07] -> Server: CAP REQ :twitch.tv/commands
+-
+01[02:07] -> Server: CAP REQ :twitch.tv/tags
+-
+[02:07] USERHOST Unknown command
+-
+[02:07] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:07] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[02:07] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative -
+-
+[02:09] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+02[02:18] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:36] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:01] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:13] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[03:15] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:23] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:24] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:43] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:50] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[03:50] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:59] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:06] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:22] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[04:49] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:38] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:39] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:39] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 32
+-
+[06:48] tmi.twitch.tv HOSTTARGET #simplyaj - 7
+-
+[06:49] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 9
+-
+[06:51] tmi.twitch.tv HOSTTARGET #simplyaj - 8
+-
+[06:51] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 8
+-
+[18:06] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[18:06] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 3
+-
+Session Close: Fri Aug 11 21:45:46 2017
+
+Session Start: Fri Aug 11 21:52:51 2017
+Session Ident: Status Window
+02[21:52] * Connecting to irc.chat.twitch.tv (6667)
+-
+[21:52] Welcome, GLHF!
+[21:52] Your host is tmi.twitch.tv
+[21:52] This server is rather new
+-
+[21:52] You are in a maze of twisty passages, all alike.
+-
+[21:52] >
+-
+01[21:52] -> Server: CAP REQ :twitch.tv/membership
+-
+01[21:52] -> Server: CAP REQ :twitch.tv/commands
+-
+01[21:52] -> Server: CAP REQ :twitch.tv/tags
+-
+[21:52] USERHOST Unknown command
+-
+[21:52] tmi.twitch.tv USERSTATE #simplyaj
+-
+[21:52] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[21:52] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming -
+-
+[21:53] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[21:53] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[21:53] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[21:53] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[21:53] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+02[21:55] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[21:59] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:36] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:48] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:01] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:17] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:40] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:50] * /splay: invalid parameters (line 1131, remote.ini)
+-
+Session Time: Sat Aug 12 00:00:00 2017
+02[00:18] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[00:52] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[00:52] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:57] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:19] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:24] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:38] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[01:38] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[01:40] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:51] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:52] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:52] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:52] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:56] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+[02:01] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:17] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[02:28] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:30] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:30] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[02:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:33] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:44] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:46] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:03] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:19] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:40] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[04:43] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:55] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:23] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:29] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[05:36] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:36] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:37] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+[05:37] tmi.twitch.tv HOSTTARGET #simplyaj cgjoe 69
+-
+
+Session Start: Sat Aug 12 23:37:59 2017
+Session Ident: Status Window
+02[23:38] * Connecting to irc.chat.twitch.tv (6667)
+-
+[23:38] Welcome, GLHF!
+[23:38] Your host is tmi.twitch.tv
+[23:38] This server is rather new
+-
+[23:38] You are in a maze of twisty passages, all alike.
+-
+[23:38] >
+-
+[23:38] USERHOST Unknown command
+-
+01[23:38] -> Server: CAP REQ :twitch.tv/membership
+-
+01[23:38] -> Server: CAP REQ :twitch.tv/commands
+-
+01[23:38] -> Server: CAP REQ :twitch.tv/tags
+-
+[23:38] tmi.twitch.tv USERSTATE #simplyaj
+-
+[23:38] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+02[23:38] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:38] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[23:40] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[23:41] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:42] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:42] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:42] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+[23:42] tmi.twitch.tv USERSTATE #simplyaj
+-
+Session Time: Sun Aug 13 00:00:00 2017
+02[00:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:56] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:00] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:04] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:36] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[01:37] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:39] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:14] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:27] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:33] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:40] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:43] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:44] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[02:49] tmi.twitch.tv CLEARCHAT #simplyaj oboyboyo
+-
+02[02:51] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[02:51] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[02:51] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:54] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[02:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:58] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:59] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:59] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:00] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:19] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:47] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:47] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[04:07] tmi.twitch.tv CLEARCHAT #simplyaj oboyboyo
+-
+02[04:09] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:27] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[04:28] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[04:42] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:02] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:23] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[06:03] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[06:18] tmi.twitch.tv USERSTATE #simplyaj
+-
+[06:18] tmi.twitch.tv USERSTATE #simplyaj
+-
+[06:19] tmi.twitch.tv HOSTTARGET #simplyaj thorlar 52
+-
+[07:44] tmi.twitch.tv HOSTTARGET #simplyaj - 11
+-
+[09:32] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 8
+-
+[18:50] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[18:51] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 3
+-
+[20:41] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[20:42] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 1
+-
+Session Close: Sun Aug 13 22:05:43 2017
+
+Session Start: Sun Aug 13 22:16:29 2017
+Session Ident: Status Window
+02[22:16] * Connecting to irc.chat.twitch.tv (6667)
+-
+[22:16] Welcome, GLHF!
+[22:16] Your host is tmi.twitch.tv
+[22:16] This server is rather new
+-
+[22:16] You are in a maze of twisty passages, all alike.
+-
+[22:16] >
+-
+01[22:16] -> Server: CAP REQ :twitch.tv/membership
+-
+01[22:16] -> Server: CAP REQ :twitch.tv/commands
+-
+01[22:16] -> Server: CAP REQ :twitch.tv/tags
+-
+[22:16] USERHOST Unknown command
+-
+[22:16] tmi.twitch.tv USERSTATE #simplyaj
+-
+[22:16] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[22:16] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming -
+-
+[22:18] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[22:18] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[22:18] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[22:18] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[22:18] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[22:18] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+02[22:32] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[22:33] tmi.twitch.tv USERNOTICE #simplyaj 3 months... well that is something
+-
+[22:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[22:33] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[22:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[22:33] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:45] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[22:46] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:16] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:21] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:44] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:57] * /splay: invalid parameters (line 1131, remote.ini)
+-
+Session Time: Mon Aug 14 00:00:00 2017
+[00:22] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 9
+-
+[05:41] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[05:42] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 5
+-
+[11:59] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[11:59] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[18:59] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[19:02] tmi.twitch.tv HOSTTARGET #simplyaj notbutterfree_bird 3
+-
+[23:02] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[23:06] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv 1
+-
+[23:06] tmi.twitch.tv USERSTATE #simplyaj
+-
+[23:06] tmi.twitch.tv USERSTATE #simplyaj
+-
+
+Session Start: Mon Aug 14 23:16:16 2017
+Session Ident: Status Window
+02[23:16] * Connecting to irc.chat.twitch.tv (6667)
+-
+[23:16] Welcome, GLHF!
+[23:16] Your host is tmi.twitch.tv
+[23:16] This server is rather new
+-
+[23:16] You are in a maze of twisty passages, all alike.
+-
+[23:16] >
+-
+01[23:16] -> Server: CAP REQ :twitch.tv/membership
+-
+01[23:16] -> Server: CAP REQ :twitch.tv/commands
+-
+01[23:16] -> Server: CAP REQ :twitch.tv/tags
+-
+[23:16] USERHOST Unknown command
+-
+[23:16] tmi.twitch.tv USERSTATE #simplyaj
+-
+[23:16] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[23:16] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv -
+-
+[23:34] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[23:34] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[23:34] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[23:34] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[23:34] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[23:34] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+
+Session Start: Mon Aug 14 23:37:30 2017
+Session Ident: Status Window
+02[23:37] * Connecting to irc.chat.twitch.tv (6667)
+-
+[23:37] Welcome, GLHF!
+[23:37] Your host is tmi.twitch.tv
+[23:37] This server is rather new
+-
+[23:37] You are in a maze of twisty passages, all alike.
+-
+[23:37] >
+-
+[23:37] USERHOST Unknown command
+-
+01[23:37] -> Server: CAP REQ :twitch.tv/membership
+-
+01[23:37] -> Server: CAP REQ :twitch.tv/commands
+-
+01[23:37] -> Server: CAP REQ :twitch.tv/tags
+-
+[23:37] tmi.twitch.tv USERSTATE #simplyaj
+-
+[23:37] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[23:37] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv -
+-
+02[23:38] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[23:39] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[23:39] tmi.twitch.tv HOSTTARGET #simplyaj - 6
+-
+[23:39] tmi.twitch.tv HOSTTARGET #simplyaj - 6
+-
+02[23:39] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[23:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[23:41] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:43] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[23:51] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[23:53] tmi.twitch.tv USERSTATE #simplyaj
+-
+Session Time: Tue Aug 15 00:00:00 2017
+02[00:01] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:02] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:19] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:23] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+[00:23] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:23] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:28] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:41] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:47] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[00:57] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[01:10] tmi.twitch.tv USERSTATE #simplyaj
+-
+[01:14] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:14] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:32] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:32] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:33] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[01:57] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:01] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:45] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:46] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:46] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[02:46] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[02:46] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:50] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:52] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:08] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[03:32] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:43] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:48] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:51] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[03:53] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[03:54] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:57] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:59] tmi.twitch.tv USERSTATE #simplyaj
+-
+[04:09] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[04:45] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[04:50] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:00] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[05:04] tmi.twitch.tv USERNOTICE #simplyaj 1 year and a bit! :D Love you bro!
+-
+[05:04] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:07] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:08] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:15] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:33] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:35] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:43] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:45] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:50] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[05:51] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:51] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:52] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[05:57] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+[06:07] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[06:11] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[06:12] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[06:13] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[06:26] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[06:31] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[06:57] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[07:00] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[07:16] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[07:17] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[07:18] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[07:25] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[07:25] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[07:32] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[07:42] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[07:42] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[07:49] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[07:49] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[07:50] * /msg: insufficient parameters (line 1115, remote.ini)
+-
+02[07:50] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[07:55] * /splay: invalid parameters (line 1131, remote.ini)
+-
+[08:02] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[08:03] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[08:04] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[08:24] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[08:26] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[08:56] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[09:02] * /splay: invalid parameters (line 1131, remote.ini)
+-
+02[09:04] * /splay: invalid parameters (line 1131, remote.ini)
+-
+Session Close: Tue Aug 15 09:06:34 2017
+
+Session Start: Tue Aug 15 09:07:04 2017
+Session Ident: Status Window
+02[09:07] * Connecting to irc.chat.twitch.tv (6667)
+-
+[09:07] Welcome, GLHF!
+[09:07] Your host is tmi.twitch.tv
+[09:07] This server is rather new
+-
+[09:07] You are in a maze of twisty passages, all alike.
+-
+[09:07] >
+-
+01[09:07] -> Server: CAP REQ :twitch.tv/membership
+-
+01[09:07] -> Server: CAP REQ :twitch.tv/commands
+-
+01[09:07] -> Server: CAP REQ :twitch.tv/tags
+-
+[09:07] USERHOST Unknown command
+-
+[09:07] tmi.twitch.tv USERSTATE #simplyaj
+-
+[09:07] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+02[09:07] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:08] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:08] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:09] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:09] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:11] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:12] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:12] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:15] * /msg: insufficient parameters (line 1126, remote.ini)
+-
+02[09:17] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:18] tmi.twitch.tv USERSTATE #simplyaj
+-
+[09:19] tmi.twitch.tv USERSTATE #simplyaj
+-
+[09:19] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:25] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:38] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:40] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:42] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:56] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:58] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[10:04] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[10:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[10:07] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[10:08] tmi.twitch.tv USERSTATE #simplyaj
+-
+[10:08] tmi.twitch.tv USERSTATE #simplyaj
+-
+[10:09] tmi.twitch.tv HOSTTARGET #simplyaj gamejo6 90
+-
+[10:09] tmi.twitch.tv HOSTTARGET #simplyaj - 83
+-
+[10:21] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 21
+-
+[16:38] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[16:39] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 8
+-
+[17:49] tmi.twitch.tv HOSTTARGET #simplyaj - 6
+-
+[17:49] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 6
+-
+[21:10] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[21:12] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 5
+-
+[21:12] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[21:53] tmi.twitch.tv HOSTTARGET #simplyaj brovirtue 5
+-
+[23:01] tmi.twitch.tv HOSTTARGET #simplyaj - 7
+-
+[23:02] tmi.twitch.tv HOSTTARGET #simplyaj brovirtue 7
+-
+[23:05] tmi.twitch.tv HOSTTARGET #simplyaj - 7
+-
+[23:05] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 7
+-
+Session Time: Wed Aug 16 00:00:00 2017
+Session Close: Wed Aug 16 00:18:03 2017
+
+Session Start: Sun Aug 20 01:36:49 2017
+Session Ident: Status Window
+02[01:36] * Connecting to irc.chat.twitch.tv (6667)
+-
+[01:36] Welcome, GLHF!
+[01:36] Your host is tmi.twitch.tv
+[01:36] This server is rather new
+-
+[01:36] You are in a maze of twisty passages, all alike.
+-
+[01:36] >
+-
+01[01:36] -> Server: CAP REQ :twitch.tv/membership
+-
+01[01:36] -> Server: CAP REQ :twitch.tv/commands
+-
+01[01:36] -> Server: CAP REQ :twitch.tv/tags
+-
+[01:36] USERHOST Unknown command
+-
+[01:36] tmi.twitch.tv USERSTATE #simplyaj
+-
+[01:36] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[01:36] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative -
+-
+[01:48] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[01:48] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+02[01:48] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[01:49] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:53] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[01:57] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:02] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:04] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[02:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:06] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[02:09] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:09] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[02:27] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:03] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[03:03] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:10] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[03:37] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[03:59] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[04:25] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[04:30] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[04:40] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[05:06] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[05:27] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[05:54] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:12] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:22] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[06:26] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[06:27] * /msg: insufficient parameters (line 1126, remote.ini)
+-
+02[06:37] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:38] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[06:43] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[07:03] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[07:08] tmi.twitch.tv USERSTATE #simplyaj
+-
+[07:08] tmi.twitch.tv USERSTATE #simplyaj
+-
+[07:09] tmi.twitch.tv HOSTTARGET #simplyaj smootheroperative 45
+-
+[07:09] tmi.twitch.tv HOSTTARGET #simplyaj - 33
+-
+[07:09] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 31
+-
+[07:39] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[07:39] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative 14
+-
+[07:43] tmi.twitch.tv HOSTTARGET #simplyaj - 10
+-
+[07:43] tmi.twitch.tv HOSTTARGET #simplyaj doomshizzle 12
+-
+[09:35] tmi.twitch.tv HOSTTARGET #simplyaj - 6
+-
+[09:36] tmi.twitch.tv HOSTTARGET #simplyaj doomshizzle 8
+-
+[09:37] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[09:37] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 7
+-
+[13:38] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[13:38] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 5
+-
+[13:59] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[14:01] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 6
+-
+[20:19] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[20:23] tmi.twitch.tv HOSTTARGET #simplyaj tehp 4
+-
+[20:53] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[20:54] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 4
+-
+[21:02] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:02] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 4
+-
+[21:07] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:07] tmi.twitch.tv HOSTTARGET #simplyaj notbutterfree_bird 4
+-
+
+Session Start: Sun Aug 20 21:43:36 2017
+Session Ident: Status Window
+02[21:43] * Connecting to irc.chat.twitch.tv (6667)
+-
+[21:43] Welcome, GLHF!
+[21:43] Your host is tmi.twitch.tv
+[21:43] This server is rather new
+-
+[21:43] You are in a maze of twisty passages, all alike.
+-
+[21:43] >
+-
+01[21:43] -> Server: CAP REQ :twitch.tv/membership
+-
+01[21:43] -> Server: CAP REQ :twitch.tv/commands
+-
+01[21:43] -> Server: CAP REQ :twitch.tv/tags
+-
+[21:43] USERHOST Unknown command
+-
+[21:43] tmi.twitch.tv USERSTATE #simplyaj
+-
+[21:43] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[21:43] tmi.twitch.tv HOSTTARGET #simplyaj notbutterfree_bird -
+-
+[21:45] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:45] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:45] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:45] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:45] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[21:45] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+02[21:57] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[22:09] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[22:29] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[22:32] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[22:44] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[22:49] tmi.twitch.tv USERSTATE #simplyaj
+-
+[22:49] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[22:54] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[23:38] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[23:40] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[23:41] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[23:51] * /splay: invalid parameters (line 1142, remote.ini)
+-
+Session Time: Mon Aug 21 00:00:00 2017
+[00:09] tmi.twitch.tv USERSTATE #simplyaj
+-
+[00:09] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:09] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[00:09] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[00:11] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[00:23] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:33] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[00:38] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[01:11] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[01:28] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[01:55] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:07] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:22] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[02:26] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:37] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:37] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:43] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[02:51] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:53] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[03:31] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:31] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:32] tmi.twitch.tv HOSTTARGET #simplyaj romscout 44
+-
+[04:13] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[06:14] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 9
+-
+[17:16] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[17:16] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 6
+-
+[18:27] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[18:27] tmi.twitch.tv HOSTTARGET #simplyaj brovirtue 4
+-
+Session Time: Tue Aug 22 00:00:00 2017
+[01:25] tmi.twitch.tv HOSTTARGET #simplyaj - 6
+-
+03[02:11] * [10053] Software caused connection abort
+-
+02[02:11] * Disconnected
+Session Close: Tue Aug 22 02:11:29 2017
+
+Session Start: Tue Aug 22 02:11:29 2017
+Session Ident: Status Window
+-
+02[02:11] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[02:11] * Unable to resolve server
+-
+02[02:11] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[02:11] * Unable to resolve server
+-
+02[02:11] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[02:11] * Unable to resolve server
+-
+02[02:11] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[02:11] * Unable to resolve server
+-
+02[02:11] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[02:11] * Unable to resolve server
+-
+02[02:11] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[02:11] * Unable to resolve server
+-
+02[02:12] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:12] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[02:12] * Unable to resolve server
+-
+02[02:13] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #30 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #31 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #32 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #33 irc.chat.twitch.tv (6667)
+-
+02[02:13] * Unable to resolve server
+-
+02[02:13] * Connect retry #34 irc.chat.twitch.tv (6667)
+-
+02[02:14] * Unable to connect to server (Connection timed out)
+-
+02[02:14] * Connect retry #35 irc.chat.twitch.tv (6667) (dns pool)
+-
+02[02:14] * Unable to connect to server (Connection timed out)
+-
+02[02:14] * Connect retry #36 irc.chat.twitch.tv (6667) (dns pool)
+-
+[02:14] Welcome, GLHF!
+[02:14] Your host is tmi.twitch.tv
+[02:14] This server is rather new
+-
+[02:14] You are in a maze of twisty passages, all alike.
+-
+[02:14] >
+-
+01[02:14] -> Server: CAP REQ :twitch.tv/membership
+-
+01[02:14] -> Server: CAP REQ :twitch.tv/commands
+-
+01[02:14] -> Server: CAP REQ :twitch.tv/tags
+-
+[02:14] USERHOST Unknown command
+-
+[02:14] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:14] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[02:14] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:14] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[02:25] * [10053] Software caused connection abort
+-
+02[02:25] * Disconnected
+Session Close: Tue Aug 22 02:25:13 2017
+
+Session Start: Tue Aug 22 02:25:13 2017
+Session Ident: Status Window
+-
+02[02:25] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:25] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[02:25] * Unable to resolve server
+-
+02[02:26] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:26] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[02:26] * Unable to resolve server
+-
+02[02:27] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[02:27] * Unable to resolve server
+-
+02[02:27] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+[02:27] Welcome, GLHF!
+[02:27] Your host is tmi.twitch.tv
+[02:27] This server is rather new
+-
+[02:27] You are in a maze of twisty passages, all alike.
+-
+[02:27] >
+-
+01[02:27] -> Server: CAP REQ :twitch.tv/membership
+-
+01[02:27] -> Server: CAP REQ :twitch.tv/commands
+-
+01[02:27] -> Server: CAP REQ :twitch.tv/tags
+-
+[02:27] USERHOST Unknown command
+-
+[02:27] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:27] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[02:27] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:27] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[02:36] * [10053] Software caused connection abort
+-
+02[02:36] * Disconnected
+Session Close: Tue Aug 22 02:36:53 2017
+
+Session Start: Tue Aug 22 02:36:53 2017
+Session Ident: Status Window
+-
+02[02:36] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[02:37] * Unable to resolve server
+-
+02[02:37] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #30 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #31 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #32 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #33 irc.chat.twitch.tv (6667)
+-
+02[02:38] * Unable to resolve server
+-
+02[02:38] * Connect retry #34 irc.chat.twitch.tv (6667)
+-
+02[02:39] * Unable to connect to server (Connection timed out)
+-
+02[02:39] * Connect retry #35 irc.chat.twitch.tv (6667) (dns pool)
+-
+02[02:39] * Unable to connect to server (Connection timed out)
+-
+02[02:39] * Connect retry #36 irc.chat.twitch.tv (6667) (dns pool)
+-
+[02:39] Welcome, GLHF!
+[02:39] Your host is tmi.twitch.tv
+[02:39] This server is rather new
+-
+[02:39] You are in a maze of twisty passages, all alike.
+-
+[02:39] >
+-
+01[02:39] -> Server: CAP REQ :twitch.tv/membership
+-
+01[02:39] -> Server: CAP REQ :twitch.tv/commands
+-
+01[02:39] -> Server: CAP REQ :twitch.tv/tags
+-
+[02:39] USERHOST Unknown command
+-
+[02:39] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:39] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[02:39] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:39] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[02:49] * [10053] Software caused connection abort
+-
+02[02:49] * Disconnected
+Session Close: Tue Aug 22 02:49:04 2017
+
+Session Start: Tue Aug 22 02:49:04 2017
+Session Ident: Status Window
+-
+02[02:49] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[02:49] * Unable to resolve server
+-
+02[02:49] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:50] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:50] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:50] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:50] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:50] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:50] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[02:50] * Unable to resolve server
+-
+02[02:51] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[02:51] * Unable to resolve server
+-
+02[02:51] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+[02:51] Welcome, GLHF!
+[02:51] Your host is tmi.twitch.tv
+[02:51] This server is rather new
+-
+[02:51] You are in a maze of twisty passages, all alike.
+-
+[02:51] >
+-
+01[02:51] -> Server: CAP REQ :twitch.tv/membership
+-
+01[02:51] -> Server: CAP REQ :twitch.tv/commands
+-
+01[02:51] -> Server: CAP REQ :twitch.tv/tags
+-
+[02:51] USERHOST Unknown command
+-
+[02:51] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:51] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[02:51] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:51] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[03:02] * [10053] Software caused connection abort
+-
+02[03:02] * Disconnected
+Session Close: Tue Aug 22 03:02:41 2017
+
+Session Start: Tue Aug 22 03:02:41 2017
+Session Ident: Status Window
+-
+02[03:02] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[03:02] * Unable to resolve server
+-
+02[03:02] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[03:02] * Unable to resolve server
+-
+02[03:02] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[03:02] * Unable to resolve server
+-
+02[03:02] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:03] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[03:03] * Unable to resolve server
+-
+02[03:04] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to resolve server
+-
+02[03:04] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to resolve server
+-
+02[03:04] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to resolve server
+-
+02[03:04] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to resolve server
+-
+02[03:04] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to resolve server
+-
+02[03:04] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to resolve server
+-
+02[03:04] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[03:04] * Unable to connect to server (Connection timed out)
+-
+02[03:04] * Connect retry #26 irc.chat.twitch.tv (6667) (dns pool)
+-
+02[03:05] * Unable to connect to server (Connection timed out)
+-
+02[03:05] * Connect retry #27 irc.chat.twitch.tv (6667) (dns pool)
+-
+[03:05] Welcome, GLHF!
+[03:05] Your host is tmi.twitch.tv
+[03:05] This server is rather new
+-
+[03:05] You are in a maze of twisty passages, all alike.
+-
+[03:05] >
+-
+01[03:05] -> Server: CAP REQ :twitch.tv/membership
+-
+01[03:05] -> Server: CAP REQ :twitch.tv/commands
+-
+01[03:05] -> Server: CAP REQ :twitch.tv/tags
+-
+[03:05] USERHOST Unknown command
+-
+[03:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:05] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[03:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:05] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[03:14] * [10053] Software caused connection abort
+-
+02[03:14] * Disconnected
+Session Close: Tue Aug 22 03:14:24 2017
+
+Session Start: Tue Aug 22 03:14:24 2017
+Session Ident: Status Window
+-
+02[03:14] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[03:14] * Unable to resolve server
+-
+02[03:14] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[03:15] * Unable to resolve server
+-
+02[03:15] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #30 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #31 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #32 irc.chat.twitch.tv (6667)
+-
+02[03:16] * Unable to resolve server
+-
+02[03:16] * Connect retry #33 irc.chat.twitch.tv (6667)
+-
+02[03:17] * Unable to resolve server
+-
+02[03:17] * Connect retry #34 irc.chat.twitch.tv (6667)
+-
+[03:17] Welcome, GLHF!
+[03:17] Your host is tmi.twitch.tv
+[03:17] This server is rather new
+-
+[03:17] You are in a maze of twisty passages, all alike.
+-
+[03:17] >
+-
+01[03:17] -> Server: CAP REQ :twitch.tv/membership
+-
+01[03:17] -> Server: CAP REQ :twitch.tv/commands
+-
+01[03:17] -> Server: CAP REQ :twitch.tv/tags
+-
+[03:17] USERHOST Unknown command
+-
+[03:17] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:17] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[03:17] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:17] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[03:25] * [10053] Software caused connection abort
+-
+02[03:25] * Disconnected
+Session Close: Tue Aug 22 03:25:41 2017
+
+Session Start: Tue Aug 22 03:25:41 2017
+Session Ident: Status Window
+-
+02[03:25] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[03:25] * Unable to resolve server
+-
+02[03:25] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[03:25] * Unable to resolve server
+-
+02[03:26] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:26] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[03:26] * Unable to resolve server
+-
+02[03:27] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #30 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:27] * Connect retry #31 irc.chat.twitch.tv (6667)
+-
+02[03:27] * Unable to resolve server
+-
+02[03:28] * Connect retry #32 irc.chat.twitch.tv (6667)
+-
+02[03:28] * Unable to resolve server
+-
+02[03:28] * Connect retry #33 irc.chat.twitch.tv (6667)
+-
+02[03:28] * Unable to resolve server
+-
+02[03:28] * Connect retry #34 irc.chat.twitch.tv (6667)
+-
+02[03:28] * Unable to resolve server
+-
+02[03:28] * Connect retry #35 irc.chat.twitch.tv (6667)
+-
+02[03:28] * Unable to resolve server
+-
+02[03:28] * Connect retry #36 irc.chat.twitch.tv (6667)
+-
+02[03:28] * Unable to connect to server (Connection timed out)
+-
+02[03:28] * Connect retry #37 irc.chat.twitch.tv (6667) (dns pool)
+-
+02[03:28] * Unable to connect to server (Connection timed out)
+-
+02[03:29] * Connect retry #38 irc.chat.twitch.tv (6667) (dns pool)
+-
+[03:29] Welcome, GLHF!
+[03:29] Your host is tmi.twitch.tv
+[03:29] This server is rather new
+-
+[03:29] You are in a maze of twisty passages, all alike.
+-
+[03:29] >
+-
+01[03:29] -> Server: CAP REQ :twitch.tv/membership
+-
+01[03:29] -> Server: CAP REQ :twitch.tv/commands
+-
+01[03:29] -> Server: CAP REQ :twitch.tv/tags
+-
+[03:29] USERHOST Unknown command
+-
+[03:29] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:29] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[03:29] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:29] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+03[03:39] * [10053] Software caused connection abort
+-
+02[03:39] * Disconnected
+Session Close: Tue Aug 22 03:39:29 2017
+
+Session Start: Tue Aug 22 03:39:29 2017
+Session Ident: Status Window
+-
+02[03:39] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[03:39] * Unable to resolve server
+-
+02[03:39] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[03:39] * Unable to resolve server
+-
+02[03:39] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[03:39] * Unable to resolve server
+-
+02[03:39] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[03:39] * Unable to resolve server
+-
+02[03:39] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:40] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:40] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:40] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:40] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:40] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:40] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[03:40] * Unable to resolve server
+-
+02[03:41] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[03:41] * Unable to resolve server
+-
+02[03:41] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+[03:41] Welcome, GLHF!
+[03:41] Your host is tmi.twitch.tv
+[03:41] This server is rather new
+-
+[03:41] You are in a maze of twisty passages, all alike.
+-
+[03:41] >
+-
+01[03:41] -> Server: CAP REQ :twitch.tv/membership
+-
+01[03:41] -> Server: CAP REQ :twitch.tv/commands
+-
+01[03:41] -> Server: CAP REQ :twitch.tv/tags
+-
+[03:41] USERHOST Unknown command
+-
+[03:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:41] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[03:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+[03:41] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[03:49] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 7
+-
+03[03:51] * [10053] Software caused connection abort
+-
+02[03:51] * Disconnected
+Session Close: Tue Aug 22 03:51:59 2017
+
+Session Start: Tue Aug 22 03:51:59 2017
+Session Ident: Status Window
+-
+02[03:52] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:52] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[03:52] * Unable to resolve server
+-
+02[03:53] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #30 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #31 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:53] * Connect retry #32 irc.chat.twitch.tv (6667)
+-
+02[03:53] * Unable to resolve server
+-
+02[03:54] * Connect retry #33 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #34 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #35 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #36 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #37 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #38 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #39 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #40 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #41 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #42 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #43 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #44 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #45 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #46 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #47 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #48 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #49 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #50 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #51 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:54] * Connect retry #52 irc.chat.twitch.tv (6667)
+-
+02[03:54] * Unable to resolve server
+-
+02[03:55] * Connect retry #53 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #54 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #55 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #56 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #57 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #58 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #59 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #60 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #61 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #62 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #63 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #64 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #65 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #66 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #67 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #68 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #69 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #70 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:55] * Connect retry #71 irc.chat.twitch.tv (6667)
+-
+02[03:55] * Unable to resolve server
+-
+02[03:56] * Connect retry #72 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #73 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #74 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #75 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #76 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #77 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #78 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #79 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #80 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #81 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #82 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #83 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #84 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #85 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #86 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #87 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #88 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #89 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:56] * Connect retry #90 irc.chat.twitch.tv (6667)
+-
+02[03:56] * Unable to resolve server
+-
+02[03:57] * Connect retry #91 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #92 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #93 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #94 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #95 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #96 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #97 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #98 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect retry #99 irc.chat.twitch.tv (6667)
+-
+02[03:57] * Unable to resolve server
+-
+02[03:57] * Connect cancelled
+Session Time: Wed Aug 23 00:00:00 2017
+
+Session Start: Sun Aug 27 02:01:16 2017
+Session Ident: Status Window
+02[02:01] * Connecting to irc.chat.twitch.tv (6667)
+-
+[02:01] Welcome, GLHF!
+[02:01] Your host is tmi.twitch.tv
+[02:01] This server is rather new
+-
+[02:01] You are in a maze of twisty passages, all alike.
+-
+[02:01] >
+-
+[02:01] USERHOST Unknown command
+-
+01[02:01] -> Server: CAP REQ :twitch.tv/membership
+-
+01[02:01] -> Server: CAP REQ :twitch.tv/commands
+-
+01[02:01] -> Server: CAP REQ :twitch.tv/tags
+-
+[02:01] tmi.twitch.tv USERSTATE #simplyaj
+-
+[02:01] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[02:01] tmi.twitch.tv HOSTTARGET #simplyaj smoothoperative -
+-
+[02:04] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[02:04] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[02:04] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+02[02:18] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:18] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:23] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:30] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:30] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[03:03] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[03:28] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[05:05] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[05:24] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:38] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:18] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[07:27] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[07:58] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[07:58] * /msg: insufficient parameters (line 1126, remote.ini)
+-
+[07:58] tmi.twitch.tv USERSTATE #simplyaj
+-
+[07:58] tmi.twitch.tv HOSTTARGET #simplyaj ayrenne 31
+-
+[09:31] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[09:32] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 6
+-
+[16:38] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[16:38] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 0
+-
+Session Time: Mon Aug 28 00:00:00 2017
+[06:33] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[06:33] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 1
+-
+[06:48] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[07:09] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 1
+-
+[16:25] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[16:26] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 1
+-
+[16:26] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 1
+-
+[19:52] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[19:52] tmi.twitch.tv HOSTTARGET #simplyaj tehp 1
+-
+[20:32] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[20:36] tmi.twitch.tv HOSTTARGET #simplyaj monstarrtv 1
+-
+[22:52] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[22:54] tmi.twitch.tv HOSTTARGET #simplyaj tehp 1
+-
+[23:39] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[23:43] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 1
+-
+Session Time: Tue Aug 29 00:00:00 2017
+
+Session Start: Tue Aug 29 01:52:40 2017
+Session Ident: Status Window
+02[01:52] * Connecting to irc.chat.twitch.tv (6667)
+-
+[01:52] Welcome, GLHF!
+[01:52] Your host is tmi.twitch.tv
+[01:52] This server is rather new
+-
+[01:52] You are in a maze of twisty passages, all alike.
+-
+[01:52] >
+-
+01[01:52] -> Server: CAP REQ :twitch.tv/membership
+-
+01[01:52] -> Server: CAP REQ :twitch.tv/commands
+-
+01[01:52] -> Server: CAP REQ :twitch.tv/tags
+-
+[01:52] USERHOST Unknown command
+-
+[01:52] tmi.twitch.tv USERSTATE #simplyaj
+-
+[01:52] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[01:52] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger -
+-
+[01:56] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[01:56] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+02[02:01] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[02:11] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[02:11] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[02:18] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:39] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:39] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[02:48] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[03:16] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[04:03] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[04:09] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[04:10] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[04:11] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[04:14] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[04:24] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[04:27] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[04:29] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[05:23] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[05:24] tmi.twitch.tv USERSTATE #simplyaj
+-
+[05:26] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[05:55] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:30] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:46] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[06:56] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[07:04] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[07:28] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[08:07] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[08:23] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[08:40] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[08:42] * /splay: invalid parameters (line 1142, remote.ini)
+-
+02[09:03] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:39] tmi.twitch.tv USERNOTICE #simplyaj 4Head
+-
+[09:39] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:40] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:43] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:44] * /splay: invalid parameters (line 1142, remote.ini)
+-
+[09:58] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[09:58] * /msg: insufficient parameters (line 1126, remote.ini)
+-
+[09:59] tmi.twitch.tv USERSTATE #simplyaj
+-
+[10:37] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 9
+-
+[10:45] tmi.twitch.tv HOSTTARGET #simplyaj - 5
+-
+[10:48] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 7
+-
+[14:32] tmi.twitch.tv HOSTTARGET #simplyaj - 4
+-
+[14:32] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 4
+-
+[14:33] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[14:33] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 4
+-
+[17:30] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[17:30] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 3
+-
+Session Time: Wed Aug 30 00:00:00 2017
+[03:13] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[03:16] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 3
+-
+[06:20] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[06:21] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 2
+-
+[06:27] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[08:33] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[16:33] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[22:13] tmi.twitch.tv HOSTTARGET #simplyaj tronbonneart 2
+-
+Session Time: Thu Aug 31 00:00:00 2017
+[02:13] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[02:17] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 2
+-
+[07:52] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[07:53] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[15:39] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[15:39] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[15:40] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[15:40] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 2
+-
+[19:06] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[19:06] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 2
+-
+[19:06] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[19:11] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 2
+-
+Session Time: Fri Sep 01 00:00:00 2017
+[01:52] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[01:52] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 2
+-
+[01:55] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[01:55] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 2
+-
+[02:44] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[02:45] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 2
+-
+[02:45] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[07:52] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[17:30] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[17:30] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 2
+-
+[17:33] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[17:33] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 2
+-
+[20:10] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[20:10] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 2
+-
+[20:14] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[20:14] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 2
+-
+[21:07] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[21:07] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 2
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[21:08] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 2
+-
+[21:12] tmi.twitch.tv HOSTTARGET #simplyaj - 2
+-
+[22:14] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 2
+-
+Session Time: Sat Sep 02 00:00:00 2017
+[04:48] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[04:49] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 1
+-
+[04:51] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[04:51] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 1
+-
+[07:51] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[07:51] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 1
+-
+[11:21] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[11:21] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 1
+-
+[11:27] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[11:27] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 1
+-
+Session Time: Sun Sep 03 00:00:00 2017
+[07:04] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[07:06] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 0
+-
+[11:13] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[11:13] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[11:21] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[11:28] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[11:54] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[12:00] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[12:16] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[12:26] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[12:55] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[12:56] tmi.twitch.tv HOSTTARGET #simplyaj tehp 0
+-
+[12:57] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[14:37] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 0
+-
+[15:41] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[15:42] tmi.twitch.tv HOSTTARGET #simplyaj lazyr1co 0
+-
+[15:46] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[15:46] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 0
+-
+[21:27] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[21:28] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 0
+-
+[21:29] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[22:05] tmi.twitch.tv HOSTTARGET #simplyaj the_punslinger 0
+-
+Session Time: Mon Sep 04 00:00:00 2017
+[03:57] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[04:01] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 0
+-
+[05:05] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[05:06] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 0
+-
+[05:08] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[05:23] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 0
+-
+[09:21] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[09:22] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 0
+-
+[09:27] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[09:27] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 0
+-
+[15:50] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[15:50] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+[16:38] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[16:38] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 0
+-
+[17:36] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[17:37] tmi.twitch.tv HOSTTARGET #simplyaj stopperjj 0
+-
+[17:38] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[20:43] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+[23:18] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[23:18] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+[23:22] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+Session Time: Tue Sep 05 00:00:00 2017
+[01:12] tmi.twitch.tv HOSTTARGET #simplyaj brovirtue 0
+-
+[03:06] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[05:17] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 0
+-
+[10:34] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[10:34] tmi.twitch.tv HOSTTARGET #simplyaj cha0tiktvgaming 0
+-
+[10:39] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[14:27] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 0
+-
+Session Time: Wed Sep 06 00:00:00 2017
+[00:36] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[00:36] tmi.twitch.tv HOSTTARGET #simplyaj ravenhart 0
+-
+[08:57] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[08:57] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+[12:20] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[12:21] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 500000
+-
+[12:21] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[13:31] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 0
+-
+03[15:23] * [10053] Software caused connection abort
+-
+02[15:23] * Disconnected
+Session Close: Wed Sep 06 15:23:02 2017
+
+Session Start: Wed Sep 06 15:23:02 2017
+Session Ident: Status Window
+-
+02[15:23] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+[15:23] Welcome, GLHF!
+[15:23] Your host is tmi.twitch.tv
+[15:23] This server is rather new
+-
+[15:23] You are in a maze of twisty passages, all alike.
+-
+[15:23] >
+-
+01[15:23] -> Server: CAP REQ :twitch.tv/membership
+-
+01[15:23] -> Server: CAP REQ :twitch.tv/commands
+-
+01[15:23] -> Server: CAP REQ :twitch.tv/tags
+-
+[15:23] USERHOST Unknown command
+-
+[15:23] tmi.twitch.tv USERSTATE #simplyaj
+-
+[15:23] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[15:23] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan -
+-
+[15:23] tmi.twitch.tv USERSTATE #simplyaj
+-
+[15:23] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[15:23] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan -
+-
+[22:04] tmi.twitch.tv HOSTTARGET #simplyaj - 500000
+-
+[22:04] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 0
+-
+[22:09] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[22:09] tmi.twitch.tv HOSTTARGET #simplyaj notbutterfree_bird 0
+-
+Session Time: Thu Sep 07 00:00:00 2017
+[00:13] tmi.twitch.tv HOSTTARGET #simplyaj - 0
+-
+[00:15] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 0
+-
+03[01:09] * [10053] Software caused connection abort
+-
+02[01:09] * Disconnected
+Session Close: Thu Sep 07 01:09:35 2017
+
+Session Start: Thu Sep 07 01:09:35 2017
+Session Ident: Status Window
+-
+02[01:09] * Connect retry #1 irc.chat.twitch.tv (6667)
+-
+02[01:09] * Unable to resolve server
+-
+02[01:09] * Connect retry #2 irc.chat.twitch.tv (6667)
+-
+02[01:09] * Unable to resolve server
+-
+02[01:09] * Connect retry #3 irc.chat.twitch.tv (6667)
+-
+02[01:09] * Unable to resolve server
+-
+02[01:09] * Connect retry #4 irc.chat.twitch.tv (6667)
+-
+02[01:09] * Unable to resolve server
+-
+02[01:09] * Connect retry #5 irc.chat.twitch.tv (6667)
+-
+02[01:09] * Unable to resolve server
+-
+02[01:09] * Connect retry #6 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #7 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #8 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #9 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #10 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #11 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #12 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #13 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #14 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #15 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #16 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:10] * Connect retry #17 irc.chat.twitch.tv (6667)
+-
+02[01:10] * Unable to resolve server
+-
+02[01:11] * Connect retry #18 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #19 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #20 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #21 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #22 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #23 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #24 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #25 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #26 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #27 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:11] * Connect retry #28 irc.chat.twitch.tv (6667)
+-
+02[01:11] * Unable to resolve server
+-
+02[01:12] * Connect retry #29 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #30 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #31 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #32 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #33 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #34 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #35 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #36 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #37 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #38 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #39 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #40 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #41 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #42 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:12] * Connect retry #43 irc.chat.twitch.tv (6667)
+-
+02[01:12] * Unable to resolve server
+-
+02[01:13] * Connect retry #44 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #45 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #46 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #47 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #48 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #49 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #50 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #51 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #52 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #53 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:13] * Connect retry #54 irc.chat.twitch.tv (6667)
+-
+02[01:13] * Unable to resolve server
+-
+02[01:14] * Connect retry #55 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #56 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #57 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #58 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #59 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #60 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #61 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #62 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #63 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #64 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #65 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #66 irc.chat.twitch.tv (6667)
+-
+02[01:14] * Unable to resolve server
+-
+02[01:14] * Connect retry #67 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #68 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #69 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #70 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #71 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #72 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #73 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:15] * Connect retry #74 irc.chat.twitch.tv (6667)
+-
+02[01:15] * Unable to resolve server
+-
+02[01:16] * Connect retry #75 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #76 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #77 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #78 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #79 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #80 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #81 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #82 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #83 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #84 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #85 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #86 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #87 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #88 irc.chat.twitch.tv (6667)
+-
+02[01:16] * Unable to resolve server
+-
+02[01:16] * Connect retry #89 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #90 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #91 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #92 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #93 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #94 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #95 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:17] * Connect retry #96 irc.chat.twitch.tv (6667)
+-
+02[01:17] * Unable to resolve server
+-
+02[01:18] * Connect retry #97 irc.chat.twitch.tv (6667)
+-
+02[01:18] * Unable to resolve server
+-
+02[01:18] * Connect retry #98 irc.chat.twitch.tv (6667)
+-
+02[01:18] * Unable to resolve server
+-
+02[01:18] * Connect retry #99 irc.chat.twitch.tv (6667)
+-
+02[01:18] * Unable to resolve server
+-
+02[01:18] * Connect cancelled
+Session Time: Fri Sep 08 00:00:00 2017
+Session Time: Sat Sep 09 00:00:00 2017
+Session Time: Sun Sep 10 00:00:00 2017
+
+Session Start: Sun Sep 10 19:00:11 2017
+Session Ident: Status Window
+02[19:00] * Connecting to irc.chat.twitch.tv (6667)
+-
+[19:00] Welcome, GLHF!
+[19:00] Your host is tmi.twitch.tv
+[19:00] This server is rather new
+-
+[19:00] You are in a maze of twisty passages, all alike.
+-
+[19:00] >
+-
+01[19:00] -> Server: CAP REQ :twitch.tv/membership
+-
+01[19:00] -> Server: CAP REQ :twitch.tv/commands
+-
+01[19:00] -> Server: CAP REQ :twitch.tv/tags
+-
+[19:00] USERHOST Unknown command
+-
+[19:00] tmi.twitch.tv USERSTATE #simplyaj
+-
+[19:00] tmi.twitch.tv ROOMSTATE #simplyaj
+-
+[19:00] tmi.twitch.tv HOSTTARGET #simplyaj notbutterfree_bird -
+-
+[19:03] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[19:07] * /msg: insufficient parameters (line 1142, remote.ini)
+-
+[19:07] tmi.twitch.tv USERSTATE #simplyaj
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[19:15] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+02[19:21] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[19:21] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[19:23] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[19:24] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[19:24] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[19:24] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[19:24] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[19:34] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[19:39] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[19:40] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[19:40] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[19:40] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[19:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+[19:42] tmi.twitch.tv USERSTATE #simplyaj
+-
+[19:43] tmi.twitch.tv USERSTATE #simplyaj
+-
+[19:49] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[19:50] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[19:50] tmi.twitch.tv USERSTATE #simplyaj
+-
+[19:54] tmi.twitch.tv USERNOTICE #simplyaj Apparently I can do this twice?? Maybe cause I switched of mobile?? Fuck if I know itsajSORRYSAMMY
+-
+[19:54] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[19:59] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[20:08] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[20:08] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[20:09] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[20:12] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[20:14] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[20:17] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[20:21] tmi.twitch.tv USERSTATE #simplyaj
+-
+[20:21] tmi.twitch.tv USERSTATE #simplyaj
+-
+[20:31] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[20:51] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[21:16] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[21:27] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[21:27] tmi.twitch.tv USERSTATE #simplyaj
+-
+[21:29] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[21:30] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[21:33] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[21:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[21:33] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[21:33] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[21:37] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[21:40] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[21:42] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[21:42] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[21:56] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[22:05] tmi.twitch.tv USERSTATE #simplyaj
+-
+[22:23] tmi.twitch.tv USERNOTICE #simplyaj
+-
+[22:23] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[22:27] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[23:36] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[23:37] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[23:47] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[23:55] * /splay: invalid parameters (line 1158, remote.ini)
+-
+Session Time: Mon Sep 11 00:00:00 2017
+[00:00] tmi.twitch.tv USERNOTICE #simplyaj 4 months, well I guess this is a thing I do now... happy 4 months AJ
+-
+[00:00] tmi.twitch.tv USERSTATE #simplyaj
+-
+[00:00] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:04] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[00:12] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[00:53] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[00:56] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[01:25] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[01:26] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[01:56] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[02:15] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:17] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[03:19] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:33] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[03:40] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[03:43] tmi.twitch.tv USERSTATE #simplyaj
+-
+02[03:49] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[04:05] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[04:08] * /splay: invalid parameters (line 1158, remote.ini)
+-
+02[04:11] * /splay: invalid parameters (line 1158, remote.ini)
+-
+[04:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+[04:41] tmi.twitch.tv USERSTATE #simplyaj
+-
+[04:41] tmi.twitch.tv HOSTTARGET #simplyaj shetalks2much 26
+-
+[07:15] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[07:15] tmi.twitch.tv HOSTTARGET #simplyaj lightitupdan 7
+-
+[13:43] tmi.twitch.tv HOSTTARGET #simplyaj - 3
+-
+[16:23] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 1
+-
+[21:23] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[21:24] tmi.twitch.tv HOSTTARGET #simplyaj jrocthegod 1
+-
+[21:27] tmi.twitch.tv HOSTTARGET #simplyaj - 1
+-
+[21:27] tmi.twitch.tv HOSTTARGET #simplyaj themeta4gaming 1
+-
+Session Time: Tue Sep 12 00:00:00 2017
+[01:35] tmi.twitch.tv USERSTATE #simplyaj
+-
